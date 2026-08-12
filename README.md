@@ -2,7 +2,7 @@
 
 A modern, fully responsive single-page website built for Neapolis Cafe in Mykonos Town.
 
-![Neapolis Cafe Preview](path/to/your/screenshot.png) <!-- Replace with your actual image path or hosting link -->
+![Neapolis Cafe Preview](assets/preview.PNG) <!-- Replace with your actual image path or hosting link -->
 
 ---
 
