@@ -79,5 +79,5 @@ To run this project locally, follow these simple steps:
 
 Interested in a similar project or working together? Let's talk!
 
-- **Name:** [chip(c)]
+- **Name:** [Serg]
 - **Email:** [druilsenctr@gmail.com]
